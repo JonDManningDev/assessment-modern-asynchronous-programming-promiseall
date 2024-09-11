@@ -1,0 +1,2 @@
+# Assessment: Modern Asynchronous Programming - Promise.all()
+This repo is my solution for the Qualified assessment for 4.6.4. Write function ultilizing Promise.all() to make multiple simultaneous requests. Function must delete every element in an array on a server with an id that matches those given in the argument array. Function must then return an array of objects, where each object contains a key-value pair of an id from a deleted element.
